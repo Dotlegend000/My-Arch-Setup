@@ -7,4 +7,21 @@ Iam using EndeavourOS for this example.
 
 # How To Use
 
-`git clone `
+```bash
+git clone https://github.com/Dotlegend000/My-Arch-Setup.git
+
+cd My-Arch-Setup
+
+# Specific to My Device (Dont use this command other than me.)
+
+sh computer.sh
+
+# Install packages
+
+sh pkg-installer.sh
+sh aur-installer.sh
+```
+
+# Credits
+
+This is forked from [johnynfulleffect's ArchMatic](https://github.com/johnynfulleffect/ArchMatic)
