@@ -12,12 +12,12 @@ PKGS=(
 
     # SYSTEM --------------------------------------------------------------
 
-    'gparted'               # Disk Management
-    'linux-lts'             # Long term support kernel
-    'mesa'                  # Graphics for Intel and AMD
-    'thermald'              # For Intel CPUs
-    'xf86-video-intel'      # Driver for intel
-    'kdeplasma-addons'      # Dependency for KDE
+    'gparted'                  # Disk Management
+    'linux-lts'                # Long term support kernel
+    'mesa'                     # Graphics for Intel and AMD
+    'thermald'                 # For Intel CPUs
+    'xf86-video-intel'         # Driver for intel
+    'kdeplasma-addons'         # Dependency for KDE
 
     # TERMINAL UTILITIES --------------------------------------------------
 
@@ -44,18 +44,18 @@ PKGS=(
 
     'clang'                 # C Lang compiler
     'cmake'                 # Cross-platform open-source make system
-    'code'                  # Visual Studio Code
     'git'                   # Version control system
     'gcc'                   # C/C++ compiler
     'glibc'                 # C libraries
     'kwrite'                # Text editor
     'meld'                  # File/directory comparison
     'python'                # Scripting language
+    'tk'                    # For Python
 
     # MEDIA ---------------------------------------------------------------
 
-    'audacious'       # Music player
-    'vlc'             # Video player
+    'audacious'             # Music player
+    'vlc'                   # Video player
 
 )
 
