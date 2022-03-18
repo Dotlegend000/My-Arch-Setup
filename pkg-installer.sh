@@ -17,6 +17,7 @@ PKGS=(
     'mesa'                  # Graphics for Intel and AMD
     'thermald'              # For Intel CPUs
     'xf86-video-intel'      # Driver for intel
+    'kdeplasma-addons'      # Dependency for KDE
 
     # TERMINAL UTILITIES --------------------------------------------------
 
