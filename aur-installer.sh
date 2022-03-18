@@ -12,27 +12,28 @@ PKGS=(
 
     # UTILITIES -----------------------------------------------------------
 
-    'update-grub'                   # Updating grub config
+    'update-grub'                       # Updating grub config
 
     # COMMUNICATIONS ------------------------------------------------------
 
-    'firefox-appmenu-bin'            # Firefox with Ubuntu patches
+    'firefox-appmenu-bin'               # Firefox with Ubuntu patches
 
     # THEMES --------------------------------------------------------------
 
-    'zsh-theme-powerlevel10k'       # Theme for ZSH
-    'kvantum-qt5-git'               # Kvantum Manager + Themes
+    'zsh-theme-powerlevel10k-git'       # Theme for ZSH
+    'kvantum-qt5-git'                   # Kvantum Manager + Themes
 
     # FONTS -----------------------------------------------------------
 
-    'ttf-google-sans'               # Google Sans font
-    'ttf-ms-fonts'                  # Microsoft Fonts
+    'ttf-google-sans'                   # Google Sans font
+    'ttf-meslo-nerd-font-powerlevel10k' # Nerd Font for Powerlevel 10k
+    'ttf-ms-fonts'                      # Microsoft Fonts
 
     # APPS ----------------------------------------------------------------
 
-    'etcher-bin'                    # Balena-Etcher
-    'liberica-jdk-8-full-bin'       # Java 8 for Minecraft
-    'visual-studio-code-bin'        # Visual Studio Code
+    'etcher-bin'                        # Balena-Etcher
+    'liberica-jdk-8-full-bin'           # Java 8 for Minecraft
+    'visual-studio-code-bin'            # Visual Studio Code
 
 )
 
