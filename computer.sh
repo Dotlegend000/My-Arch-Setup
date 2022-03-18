@@ -15,8 +15,8 @@ PKGS=(
     'bbswitch-dkms'             # Hybrid graphic switch (Dependency for optimus-manager)
     'lib32-nvidia-390xx-utils'  # Nvidia driver 390 utilities (32 Bit)
     'lib32-virtualgl'           # Dependency for optimus-manager
-    'nvidia-390-dkms'           # Nvidia driver 390 (DKMS Version)
-    'nvidia-390-utils'          # Nvidia driver 390 utilities
+    'nvidia-390xx-dkms'           # Nvidia driver 390 (DKMS Version)
+    'nvidia-390xx-utils'          # Nvidia driver 390 utilities
     'optimus-manager'           # Optimus for Nvidia + Intel/AMD
     'optimus-manager-qt'        # Button for switching
 
