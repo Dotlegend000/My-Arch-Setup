@@ -22,6 +22,10 @@ sh pkg-installer.sh
 sh aur-installer.sh
 ```
 
+# System Description
+
+This is done on EndeavourOS + KDE plasma
+
 # Credits
 
 This is forked from [johnynfulleffect's ArchMatic](https://github.com/johnynfulleffect/ArchMatic)
